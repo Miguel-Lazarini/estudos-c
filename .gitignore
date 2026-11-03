@@ -1,0 +1,8 @@
+# Ignorar todos os executáveis criados pelo GCC
+*.out
+*
+!*/
+!**/*.c
+!**/*.h
+!.gitignore
+!README.md
